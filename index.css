@@ -31,6 +31,7 @@ nav {
 
 nav ul {
     display: flex;
+    margin-left: 800px;
 }
 ul li {
     list-style-type: none;
@@ -304,7 +305,7 @@ footer p {
         display: block;
         width: 40px;
         height: 40px;
-        right: 85%;
+        margin-left: 190px;
     }
 
     nav ul {
