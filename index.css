@@ -26,6 +26,7 @@ nav {
 
 .box-ic {
     display: none;
+    border: 2px solid black;
 }
 
 nav ul {
@@ -368,7 +369,6 @@ footer p {
     
       .skills-grid {
         width: 100%;
-        border: 10px solid black;
         padding-bottom: 10px;
       }
     
